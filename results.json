@@ -14,7 +14,15 @@
     "en_on_tl": 68.54,
     "en_on_nl": 60.3
   },
-  "test_match": "NameError(\"name 'langs' is not defined\")",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 27.43961992802734,
+    "en_tl_3": 68.5447002617564,
+    "en_nl_3": 60.30195984746802
+  },
   "test_generate": {
     "english_2_gram": "I amisovit dsht d hi I't",
     "english_3_gram": "I aments://t.co/TGIR Cas",

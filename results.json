@@ -14,6 +14,14 @@
     "en_on_tl": 68.54,
     "en_on_nl": 60.3
   },
-  "test_match": "NameError(\"name 'match' is not defined\")",
-  "test_generate": "NameError(\"name 'generate' is not defined\")"
+  "test_match": "NameError(\"name 'langs' is not defined\")",
+  "test_generate": {
+    "english_2_gram": "I amisovit dsht d hi I't",
+    "english_3_gram": "I aments://t.co/TGIR Cas",
+    "english_4_gram": "I Loveryoney from a libe! ",
+    "spanish_2_gram": "SoyKhtunt.<end>htt.<end> ht. as",
+    "spanish_3_gram": "Soy prontadritadado ci\u00f3",
+    "french_2_gram": "Je suiserourt d\u00e9ou'e ht IGu",
+    "french_3_gram": "Je suiserr\u00e9sobiths gark @Jr"
+  }
 }
